@@ -800,7 +800,7 @@ end
 
 Näkymätemplatet, eli erb-tiedostot ovat html:ää, joihin on upotettu Ruby-koodia.
 
-Tarkastellaan valmiiksigeneroitua näkymätemplatea eli tiedostoa app/views/breweries/index.html.erb
+Tarkastellaan valmiiksi generoitua näkymätemplatea eli tiedostoa app/views/breweries/index.html.erb
 
 ```html
 <p style="color: green"><%= notice %></p>
